@@ -32,7 +32,6 @@ public class Filme {
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.println("Bem vindo! Cadastre o filme que você deseja.");
-		scanner.nextLine();
 
 		System.out.println("Informe o nome do filme: ");
 		nome = scanner.next();
